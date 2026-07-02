@@ -33,3 +33,6 @@ OpenAI
 Gmail
 ↓
 Update Google Sheet
+## Workflow Diagram
+
+![Workflow](workflow.png)
